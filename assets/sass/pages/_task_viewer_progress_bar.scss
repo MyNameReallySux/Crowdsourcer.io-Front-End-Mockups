@@ -1,0 +1,97 @@
+#open {
+  width: 15%;
+  background-color: #ddd;
+  vertical-align: top;
+  display: inline-block;
+}
+#fillColorOpenProgressBar {
+  width: 0%;
+  height: 30px;
+  text-align: center;
+  text-shadow: 1px 1px #666;
+  line-height: 30px;
+  color: white;
+  font-weight: bold;
+  background: repeating-linear-gradient(
+    45deg,
+    #e43f3f,
+    #e23b3b 12px,
+    #e21c1c 10px,
+    #cc0606 20px
+  );
+}
+
+
+#begun {
+  width: 15%;
+  background-color: #ddd;
+  vertical-align: top;
+  display: inline-block;
+}
+#fillColorBegunProgressBar {
+  width: 0%;
+  height: 30px;
+  text-align: center;
+  text-shadow: 1px 1px #666;
+  line-height: 30px;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  background: repeating-linear-gradient(
+    45deg,
+    #f78e21,
+    #e48523 12px,
+    #e4641c 10px,
+    #f36c0a 20px
+  );
+}
+
+
+#review {
+  width: 15%;
+  background-color: #ddd;
+  vertical-align: top;
+  display: inline-block;
+}
+#fillColorReviewProgressBar {
+  width: 0%;
+  height: 30px;
+  text-shadow: 1px 1px #666;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  background: repeating-linear-gradient(
+    45deg,
+    #efe825,
+    #dcc520 12px,
+    #afaf07 10px,
+    #b9ae00 20px
+  );
+}
+
+
+#completed {
+  width: 15%;
+  background-color: #ddd;
+  vertical-align: top;
+  display: inline-block;
+}
+#fillColorCompletedProgressBar {
+  width: 0%;
+  height: 30px;
+  text-align: center;
+  text-shadow: 1px 1px #666;
+  line-height: 30px;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  background: repeating-linear-gradient(
+    45deg,
+    #2be45c,
+    #11d052 12px,
+    #10b73d 10px,
+    #05af3f 20px
+  );
+}
